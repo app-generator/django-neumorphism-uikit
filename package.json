@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-code-django",
+  "name": "django-neumorphism-uikit",
   "mastertemplate": "boilerplate-code-django",
   "version": "1.0.1",
   "description": "Template project - Django Boilerplate Code",
@@ -7,10 +7,10 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/app-generator/boilerplate-code-django"
+      "url": "https://github.com/app-generator/django-neumorphism-uikit"
   },
   "bugs": {
-      "url": "https://github.com/app-generator/boilerplate-code-django/issues",
+      "url": "https://github.com/app-generator/django-neumorphism-uikit/issues",
       "email": "support@appseed.us"
   },
   "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",

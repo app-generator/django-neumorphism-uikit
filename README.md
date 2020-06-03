@@ -1,8 +1,8 @@
-# [Boierplate Code Django](https://appseed.us/boilerplate-code/django)
+# [Django Neumorphism UI Kit](https://django-neumorphism-uikit.appseed.us/)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features:
+> **Open-Source Web App** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
-- UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
+- UI Kit: [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui) by Themesberg
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
@@ -13,14 +13,14 @@
 
 > Links
 
-- [Boierplate Code Django](https://boilerplate-code-django.appseed.us/) - LIVE Demo
-- [Boierplate Code Django](https://appseed.us/boilerplate-code/django) - Official product page
+- [Django Neumorphism UI Kit](https://django-neumorphism-uikit.appseed.us/) - LIVE Demo
+- [Django Neumorphism UI Kit](https://github.com/app-generator/django-neumorphism-uikit) - Official product page
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Boierplate Code Django - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-django/master/media/boilerplate-code-django-screen.png)
+![Django Neumorphism UI Kit - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-neumorphism-uikit/master/media/django-neumorphism-uikit-screen.png)
 
 <br />
 
@@ -28,8 +28,8 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/boilerplate-code-django.git
-$ cd boilerplate-code-django
+$ git clone https://github.com/app-generator/django-neumorphism-uikit.git
+$ cd django-neumorphism-uikit
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -137,8 +137,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-django.git
-$ cd boilerplate-code-django
+$ git clone https://github.com/app-generator/django-neumorphism-uikit.git
+$ cd django-neumorphism-uikit
 ```
 
 > Start the app in Docker
@@ -203,4 +203,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Boierplate Code Django](https://appseed.us/boilerplate-code/django) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Neumorphism UI Kit](https://django-neumorphism-uikit.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
